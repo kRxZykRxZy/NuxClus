@@ -1,0 +1,9 @@
+{
+    "enable_proxy": true,
+    "enable_commands": true,
+    "enable_docker": true,
+    "enable_storage": true,
+    "setup_type": "cluster",
+    "server_ip": "127.0.0.1",
+    "server_port": 8765
+}
